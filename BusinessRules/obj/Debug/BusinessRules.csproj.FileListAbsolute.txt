@@ -1,0 +1,5 @@
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\BusinessRules\bin\Debug\BusinessRules.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\BusinessRules\obj\Debug\BusinessRules.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\BusinessRules\obj\Debug\BusinessRules.pdb
+C:\Users\marcelo\documents\visual studio 2010\Projects\BLOG\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache

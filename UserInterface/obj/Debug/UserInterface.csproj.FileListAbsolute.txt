@@ -1,0 +1,11 @@
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\UserInterface.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\UserInterface.pdb
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\BusinessRules.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\EntityFramework.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\BusinessRules.pdb
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\EntityFramework.xml
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\DataAccess.dll
+C:\Users\marcelo\Documents\visual studio 2010\Projects\BLOG\UserInterface\bin\DataAccess.pdb
